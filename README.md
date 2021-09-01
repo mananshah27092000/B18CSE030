@@ -22,7 +22,7 @@
 
 ## Features
 
- * One can add string to the list using http://localhost:8080/?add="string2" in the browser and check the list getting updated
+ * One can add string to the list using http://localhost:8080/?add="string to add" in the browser and check the list getting updated
  
  * One can check the list of strings using http://localhost:8080
  
