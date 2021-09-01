@@ -13,7 +13,7 @@
     * Starts the server by executing `node server.js`.
 
 3. The docker image is built from the Dockerfile using the following command: \
-`docker built . -t b18cse030/assignment1`
+`docker build . -t b18cse030/assignment1`
 
 4. The docker image is instantiated to create a container, with port 8080 of the host forwarded to port 8080 of the container: \
 `docker run -p 8080:8080 -d b18cse030/assignment1`
